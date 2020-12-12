@@ -8,4 +8,6 @@ Ilshat Niyazov, Erlan Alymkulov
 
 ![cbcb5aa264668f92dce64c8caa9ebe73](https://user-images.githubusercontent.com/39675003/101989152-b142c180-3cc8-11eb-9198-5e3475c0dfee.png)
 
-<h3></h3>
+<h3>Then we can add students using left sidebar</h3>
+
+![6ec0920e096e948f837e0efd052c9584](https://user-images.githubusercontent.com/39675003/101989200-fb2ba780-3cc8-11eb-81f8-01489c6cd8a1.png)

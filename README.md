@@ -21,3 +21,5 @@ Ilshat Niyazov, Erlan Alymkulov
 ![cdd7a1962376a22981fc475f5b617852](https://user-images.githubusercontent.com/39675003/101989502-ed772180-3cca-11eb-8539-7f29546d3330.png)
 
 <h3>Then, click Add Entry. And there we go!</h3>
+
+![da5a9fc46f05efcc00cc5ae5eba28569](https://user-images.githubusercontent.com/39675003/101989529-2fa06300-3ccb-11eb-8c79-ca32c8ba1cd0.png)

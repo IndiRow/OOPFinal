@@ -17,3 +17,7 @@ Ilshat Niyazov, Erlan Alymkulov
 ![993743d8b3d1297498fcb4666e0ae14c](https://user-images.githubusercontent.com/39675003/101989453-94a78900-3cca-11eb-8102-d0de62f4a5a0.png)
 
 <h3>To add some student to Database need to fill the forms</h3>
+
+![cdd7a1962376a22981fc475f5b617852](https://user-images.githubusercontent.com/39675003/101989502-ed772180-3cca-11eb-8539-7f29546d3330.png)
+
+<h3>Then, click Add Entry. And there we go!</h3>
